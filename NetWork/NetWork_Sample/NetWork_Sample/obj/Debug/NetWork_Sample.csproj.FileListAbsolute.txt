@@ -1,0 +1,9 @@
+D:\Project\NetWork_Sample\NetWork_Sample\bin\Debug\NetWork_Sample.exe.config
+D:\Project\NetWork_Sample\NetWork_Sample\bin\Debug\NetWork_Sample.exe
+D:\Project\NetWork_Sample\NetWork_Sample\bin\Debug\NetWork_Sample.pdb
+D:\Project\NetWork_Sample\NetWork_Sample\obj\Debug\NetWork_Sample.csprojResolveAssemblyReference.cache
+D:\Project\NetWork_Sample\NetWork_Sample\obj\Debug\NetWork_Sample.exe
+D:\Project\NetWork_Sample\NetWork_Sample\obj\Debug\NetWork_Sample.pdb
+D:\GitFolder\PersonalProjects\NetWork_Sample\NetWork_Sample\NetWork_Sample\bin\Debug\NetWork_Sample.exe.config
+D:\GitFolder\PersonalProjects\NetWork_Sample\NetWork_Sample\NetWork_Sample\obj\Debug\NetWork_Sample.exe
+D:\GitFolder\PersonalProjects\NetWork_Sample\NetWork_Sample\NetWork_Sample\obj\Debug\NetWork_Sample.pdb
